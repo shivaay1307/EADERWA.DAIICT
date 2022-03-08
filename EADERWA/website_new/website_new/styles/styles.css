@@ -1,0 +1,90 @@
+.da_logo {
+  position: absolute;
+}
+.main {
+  width: 100em;
+  margin: 0%;
+  padding: 1em;
+  text-align: inherit;
+  background-color: rgb(204, 238, 238);
+  vertical-align: top;
+  display: block;
+}
+.headings {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+}
+.main_sidebar{
+  height: 100%;
+  margin: 0%;
+  padding: 0%;
+}
+.name {
+  margin: 0%;
+  padding: 0%;
+  text-align: center;
+  display: inline-block;
+}
+.background_image{
+  /* background-position: center; */
+  height: 100%;
+  width: 100%;
+  opacity: 85%;
+  border-style:groove;
+  border-color:brown;
+  border-radius: 3px;
+}
+.img_1 {
+  text-align-last: right;
+  position: relative;
+  display: inline-block;
+  margin-top: 0%;
+  padding: 5px;
+}
+.main_table{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  border: 2px solid;
+  background-color: whitesmoke;
+  width: 99%;
+  height: 100%;
+}
+.second_column{
+  background-color: white;
+}
+.table_names{
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+  border: 2px solid black;
+}
+.table_heading{
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+  border: 2px solid black;
+  border-right: 0px;
+}
+.table_rows{
+  padding: 5px;
+  margin: 5px;
+  border: 2px solid black;
+} 
+.main_sidebar{
+  height:100% ;
+  display: block;
+  background-color: #343a40;
+}
+.page_heading{
+  background-color: #1b4d89;
+  color: antiquewhite;
+  text-align: center;
+  font-size:xx-large;
+  font-family:'Times New Roman', Times, serif;
+}
+.footer_1 {
+  position: relative;
+  background-color: #1b4d89;
+  text-align: center;
+  padding: 0.5px;
+  color: #f6e9d7;
+}
